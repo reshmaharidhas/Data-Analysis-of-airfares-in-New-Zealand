@@ -5,9 +5,10 @@ This project analyses the airfares of the flights operating within New Zealand i
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
 </p>
 
 ## Dataset🗂️
@@ -49,11 +50,11 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-visualization-of-ai
 ![Distribution of airfare by airlines in nzd](plots/distribution_of_airfare_by_airlines_nzd.png)
 ![Total number of flights departed from airport day wise for months](plots/total_number_of_flights_departed_from_airport_day_wise_for_months.png)
 
-## Tech stack
+## Tech stack💻
 - Pandas
 - Matplotlib
 - Python
 - Numpy
 
-## License
+## License💻
 GPL 3.0

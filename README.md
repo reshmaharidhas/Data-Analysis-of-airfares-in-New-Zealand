@@ -9,6 +9,7 @@ This project analyses the airfares of the flights operating within New Zealand i
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
   <img alt="GitHub License" src="https://img.shields.io/github/license/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand?labelColor=%23000000">
+  <img src="https://img.shields.io/github/stars/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand">
 </p>
 
 ## Dataset🗂️

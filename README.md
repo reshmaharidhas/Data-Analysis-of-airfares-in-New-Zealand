@@ -15,9 +15,15 @@ This project analyses the airfares of the flights operating within New Zealand i
 ## Dataset🗂️
 - Source: Kaggle 
 - Source url: https://www.kaggle.com/datasets/shashwatwork/airfares-in-new-zealand
+- Size: 162,833 rows
 
 ## Kaggle Notebook📓
 https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-visualization-of-airfares-in-nz
+
+## Analysis Workflow💻
+- Exploratory Data Analysis (EDA)
+- Data cleaning
+- Data Visualizations
 
 ## Insights✈️
 - The price range of air travel in New Zealand is between 30 to 950 NZD.

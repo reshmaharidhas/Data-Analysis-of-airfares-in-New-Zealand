@@ -47,6 +47,7 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-visualization-of-ai
 ## Visualizations🛫
 ![Distribution of airfare at new zealand](plots/distribution_of_flight_fare_at_new_zealand_in_nzd.png)
 ![Flight duration vs airfare for flights by airport](plots/flight_duration_vs_airfare_for_flights_by_airport.png)
+![Correlation heatmap](plots/correlation_heatmap.png)
 ![Number of flights departed month-wise from AKL CHC WLG ZQN](plots/number_of_flights_departed_month_wise_from_akl_chc_wlg_zgn_airports.png)
 ![Distribution of airfare by airlines in nzd](plots/distribution_of_airfare_by_airlines_nzd.png)
 ![Total number of flights departed from airport day wise for months](plots/total_number_of_flights_departed_from_airport_day_wise_for_months.png)

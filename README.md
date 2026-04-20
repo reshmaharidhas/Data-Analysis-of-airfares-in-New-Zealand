@@ -54,6 +54,7 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-visualization-of-ai
 ## Tech stack💻
 - Pandas
 - Matplotlib
+- Seaborn
 - Python
 - Numpy
 
